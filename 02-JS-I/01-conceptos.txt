@@ -1,0 +1,26 @@
+Conceptos Basicos:
+
+Variables: se ultilazan para guardar valores y luego poder utilizarnos.
+ejemplo:
+var saludo = "Hola mundo";
+
+string: son cadenas de texto que se utilizan para describir una palabra o texto, un nombre, un apllido
+entre otras. ejemplos:
+
+var Unstring = "Hola soy una cadena de texto";
+
+Funciones= Las funciones son argumentos que se utilizan para realizar alguna operacion o llamado
+son muy utilizadas dentro de los lenguajes de programacion por nos permiten realizar cualquier cosa
+dentro de nuestra aplicacion. ejemplo:
+
+fuction Mifuncion (nombre) {
+    console.log(`Mi nombre es:` nombre)
+
+}
+Mifuncion("Jesus");
+
+Declaracion if = son sentencias que se ejecutan cuando una condicion es verdadera.
+
+Valores Booleanos = estos valores se representan con la palabra reservada True que significa verdades
+y con False que signica falso: es muy ultil para regresar este valor y ejecutar codigo segun la
+respuesta que se espera.
