@@ -1,0 +1,30 @@
+ h1 {
+        color: firebrick;
+    }
+    img {
+        width: 400px;
+        height: 250px;
+    }
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #thirdDiv {
+
+        background-color: grey;
+        border: solid red;
+        height: 600px;
+        padding: 50px;
+        width: 500px;
+    }
+    #spanId {
+        font-size: 18px;
+        margin: 50px;
+    }
+    .divClass {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
